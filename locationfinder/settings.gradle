@@ -1,0 +1,2 @@
+rootProject.name = "location finder"
+include ':app'
